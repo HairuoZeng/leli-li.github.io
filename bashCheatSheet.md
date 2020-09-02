@@ -1,5 +1,5 @@
-## Navigating the Filesystem | ### pwd / ls / cd
-## Creating Directories | ### mkdir
+## |Navigating the Filesystem |pwd / ls / cd|
+## |Creating Directories | mkdir|
 
 
 
