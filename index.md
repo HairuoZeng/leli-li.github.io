@@ -4,4 +4,4 @@
 
 ## MSc in Bioinformatics
 
-The first code wil be uploaded during **BINP16
+The first code wil be uploaded during **BINP16**
