@@ -20,4 +20,4 @@ Content from cell 1 | Content from cell 2
 Content in the first column | Content in the second column
 
 
-google link(http://www.google.com)
+google http://www.google.com
